@@ -19,8 +19,8 @@ label {
   display: grid;
   grid-template-columns: repeat(1, minmax(0, 1fr));
   gap: 0.5rem;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 h2 {
